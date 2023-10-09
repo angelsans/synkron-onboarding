@@ -16,5 +16,11 @@ This command opens a tunnel to connect to the development database, now you can 
 npm run watch
 ```
 
+
+# Viewing data
+You can use the database manager of your choice. We recommend [DBbeaver](https://dbeaver.io/) for its ease of use and powerful features.
+
+
+
 # Next Topic
-[Connecting to the DB](db-connection)
+[Make my first update to the database](../db-migrations)
