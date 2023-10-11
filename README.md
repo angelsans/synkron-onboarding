@@ -25,6 +25,9 @@ The following topics are based on common activities during development cycle at 
 # Connecting to the DB
 [Click here](db-connection)
 
+# Call my first request to the API
+[Click here](api-request)
+
 # Make my first update to the database
 [Click here](db-migrations)
 
